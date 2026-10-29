@@ -52,3 +52,7 @@ itself.
 - `f-<hash>` files: the app's files, each named by its content hash, so phones only download
   what changed.
 - `plantcare-rover-vX.Y.Z.apk`: the Android app, on releases that need one.
+
+## License
+
+Apache License 2.0. See [LICENSE](LICENSE).
